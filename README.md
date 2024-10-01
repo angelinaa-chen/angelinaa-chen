@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi! I'm Angelina, a sophomore studying computer science @ Cornell University. (:
 
 <!--
 **angelinaa-chen/angelinaa-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
